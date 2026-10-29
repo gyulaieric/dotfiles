@@ -1,0 +1,2 @@
+@reboot sleep 10 && /home/gyulai/.local/bin/wttr_status
+*/15 * * * * /home/gyulai/.local/bin/wttr_status

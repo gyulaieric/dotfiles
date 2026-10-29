@@ -1,0 +1,6 @@
+[submodule "src/slstatus"]
+	path = src/slstatus
+	url = https://github.com/gyulaieric/slstatus.git
+[submodule "src/dwl"]
+	path = src/dwl
+	url = https://github.com/gyulaieric/dwl.git
